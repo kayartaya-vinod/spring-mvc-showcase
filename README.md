@@ -1,5 +1,21 @@
 Spring MVC Showcase
 -------------------
+<table>
+<tr>
+    <td>
+        <a href="http://bit.ly/2D9pxjW" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/angular7.jpeg">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.udemy.com/mongodb-fundamentals/?couponCode=FIRST500" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/mongodb.jpeg">
+        </a>
+    </td>
+</tr>
+</table>
+
+
 Demonstrates the capabilities of the Spring MVC web framework through small, simple examples.
 After reviewing this showcase, you should have a good understanding of what Spring MVC can do and get a feel for how easy it is to use.
 Includes project code along with a supporting slideshow and screen cast.
